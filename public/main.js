@@ -11,6 +11,7 @@ const context = {
       price: "$1,999.00",
       sale: "$1,699.89",
       type: "object",
+      memo: "talent",
     },
     {
       image:
